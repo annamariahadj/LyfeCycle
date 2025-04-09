@@ -4,6 +4,11 @@
 
 ---
 
+## 🎬 Live Demo
+
+[![Watch the demo](./screenshots/thumbnail.png)](https://youtube.com/shorts/P9dtEDqI3YQ?feature=share)
+
+
 ## 📱 Features
 
 - 🔐 Firebase Authentication (Login, Sign-Up, Logout)
@@ -48,10 +53,6 @@ npm install
 npx expo start
 ```
 Use the QR code in Expo Go (on your mobile device) to test the app live.
-
-## 📷 Screenshots 
-
----
 
 ## 📡 BLE Functionality
 
